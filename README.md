@@ -81,7 +81,7 @@ MIT License
 
 Автор
 
-Ваше Имя - donat.egos@gmail.com
+Моя почта - donat.egos@gmail.com
 
 Поддержка
 
